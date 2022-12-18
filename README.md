@@ -1,6 +1,6 @@
 # Description
-Cool effects made with dot patter.
-requirement: opencv-python, numpy
+- Cool effects made with dot patter.
+- requirement: opencv-python, numpy
 
 # Preview
 ### flower.png
